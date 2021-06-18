@@ -1,0 +1,21 @@
+.error {
+  text-align: center;
+  margin: 2% 20%;
+  display: flex;
+  flex-direction: column;
+}
+
+.error img {
+  height: 400px;
+  margin-bottom: 2%;
+}
+
+.error button {
+  padding: 2%;
+  margin: 0% 44%;
+  background-color: #ec095d;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+  color: white;
+}

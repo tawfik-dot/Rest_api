@@ -1,0 +1,21 @@
+.footer {
+  background-color: white;
+  padding: 1%;
+  position: absolute;
+  bottom: 0;
+  width: 98%;
+  flex-shrink: 0;
+  mask-image: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0) 0%,
+    #ffffff 25%,
+    #ffffff 75%,
+    rgba(255, 255, 255, 0) 100%
+  );
+}
+span {
+  margin-left: 41%;
+  font-size: 15px;
+  font-weight: 700;
+  color: rgb(146 145 145);
+}

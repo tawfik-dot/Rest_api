@@ -1,0 +1,22 @@
+.Home {
+  text-align: center;
+  background-color: #f5f5f573;
+  padding: 1%;
+  margin: 7% 25%;
+  border-radius: 10px;
+}
+h1 {
+  color: rgb(255, 255, 255);
+  font-family: none;
+  font-weight: 600;
+  margin-bottom: 3%;
+  font-size: 50px;
+}
+.hu__hu__ {
+  animation: hu__hu__ infinite 2s ease-in-out;
+}
+@keyframes hu__hu__ {
+  50% {
+    transform: translateY(30px);
+  }
+}

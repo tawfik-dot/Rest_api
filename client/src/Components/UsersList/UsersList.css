@@ -1,0 +1,23 @@
+.userslist {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 5% 10%;
+}
+.hu__hu__ {
+  background-color: rgba(255, 255, 255, 0.459);
+  padding: 1%;
+  border-radius: 10px;
+  margin-top: 5%;
+}
+
+.hu__hu__ h3 {
+  color: white;
+  font-size: 25px;
+}
+@keyframes hu__hu__ {
+  50% {
+    transform: translateY(30px);
+  }
+}
